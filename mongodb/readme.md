@@ -5,6 +5,6 @@ podman create --name mongo -it mongo
 podman start mongo
 ```
 
-# Results of the practical task HBase:
+# Results of the practical task MongoDB:
 
 The schreenshots with results in this repo under /screenshots folder
